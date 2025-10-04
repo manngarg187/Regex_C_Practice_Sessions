@@ -3,6 +3,15 @@
 // A number is Kaprekar if its square can split into 2 parts that add up to the 
 // orignal number.
 
+/*
+1: 1² = 1. Split into 0 and 1 (leading zeros are allowed), 0 + 1 = 1. 
+9: 9² = 81. Split into 8 and 1, 8 + 1 = 9. 
+45: 45² = 2025. Split into 20 and 25, 20 + 25 = 45. 
+55: 55² = 3025. Split into 30 and 25, 30 + 25 = 55. 
+99: 99² = 9801. Split into 98 and 01, 98 + 1 = 99. 
+297: 297² = 88209. Split into 88 and 209, 88 + 209 = 297. 
+*/
+
 #include <stdio.h>
 int main(){
     int a;
