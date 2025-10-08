@@ -1,0 +1,82 @@
+
+Here are the most useful keyboard shortcuts to move the cursor in the Mac terminal:
+
+* Ctrl + A: Move to the beginning of the line
+* Ctrl + E: Move to the end of the line
+* Ctrl + F: Move forward (right) by one character
+* Ctrl + B: Move backward (left) by one character
+* Option (⌥) + Right Arrow: Move forward by one word
+* Option (⌥) + Left Arrow: Move backward by one word
+* Ctrl + U: Delete from the cursor to the beginning of the line
+* Ctrl + K: Delete from the cursor to the end of the line
+* Ctrl + W: Delete the word before the cursor
+* Ctrl + D: Delete the character under the cursor
+
+
+💻 VS Code Shortcuts for macOS
+
+🧭 Basic Editing
+Action	Shortcut
+Duplicate line up/down	⌥ + ⇧ + ↑ / ↓
+Move line up/down	⌥ + ↑ / ↓
+Delete line	⇧ + ⌘ + K
+Add line below	⌘ + Enter
+Add line above	⇧ + ⌘ + Enter
+Join lines	⌃ + J
+Toggle line comment	⌘ + /**
+Block comment	⌥ + ⇧ + A
+Indent line	⌘ + ]
+Outdent line	⌘ + [
+
+🔍 Navigation
+Action	Shortcut
+Go to line	⌃ + G
+Go to file	⌘ + P
+Go to definition	F12
+Peek definition	⌥ + F12
+Go to symbol	⇧ + ⌘ + O
+Navigate back / forward	⌃ + - / ⌃ + ⇧ + -
+
+🧠 Multi-Cursor & Selection
+Action	Shortcut
+Add cursor above/below	⌥ + ⌘ + ↑ / ↓
+Add next occurrence	⌘ + D
+Select all occurrences	⌘ + ⇧ + L
+Column (box) selection	⌥ + drag with mouse OR ⌥ + ⇧ + click
+Select current line	⌘ + L
+
+🪄 File & Editor Management
+Action	Shortcut
+Open new file	⌘ + N
+Open file	⌘ + O
+Save file	⌘ + S
+Save all	⌥ + ⌘ + S
+Close file	⌘ + W
+Close all files	⌘ + K, ⌘ + W
+Split editor	⌘ + \
+Switch editor group	⌘ + 1 / 2 / 3
+
+🧩 Search & Replace
+Action	Shortcut
+Find	⌘ + F
+Find next / previous	⌘ + G / ⇧ + ⌘ + G
+Replace	⌘ + ⌥ + F
+Find in all files	⇧ + ⌘ + F
+
+🧱 Integrated Terminal
+Action	Shortcut
+Toggle terminal	⌃ + `
+Create new terminal	⌃ + ⇧ + `
+Kill terminal	⌃ + ⇧ + X
+Clear terminal	⌘ + K
+
+🧰 Run / Debug
+Action	Shortcut
+Run without debugging	⌃ + F5
+Start debugging	F5
+Step over	F10
+Step into	F11
+Step out	⇧ + F11
+Toggle breakpoint	F9
+Continue / pause	⌘ + \ (sometimes F5 depending on layout)
+
