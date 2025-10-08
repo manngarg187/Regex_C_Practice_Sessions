@@ -1,4 +1,10 @@
 
+
+Steps to align code:
+you can use the Command Palette to access formatting commands:
+* Open the Command Palette: Ctrl + Shift + P (Windows/Linux) or Cmd + Shift + P (macOS).
+* Type "Format Document" and select the corresponding command.
+
 Here are the most useful keyboard shortcuts to move the cursor in the Mac terminal:
 
 * Ctrl + A: Move to the beginning of the line
