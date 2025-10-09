@@ -15,3 +15,8 @@ Git Notes:
 1.  git add .
 2. git commit -m “Name of the Commit”
 3. git push
+
+— 🩵 1️⃣ Undo all added files
+If you want to unstage everything (cancel git add . completely):
+git reset
+✅ This will unstage all files that you added. Your working directory (the actual file contents) will stay the same — only the staging area is cleared.
